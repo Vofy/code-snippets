@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GraphicsEditor</name>
+    </assembly>
+    <members>
+        <member name="T:GraphicsEditor.Effects">
+            <summary>
+            Knihovní třída pro přidání efektů
+            </summary>
+        </member>
+        <member name="M:GraphicsEditor.Effects.Brightness.CalculateBrightness(System.Drawing.Color)">
+            <summary>
+            Vypočítá světlost barvy na základě předané barvy
+            </summary>
+            <param name="color">Barva</param>
+            <returns>Světlost barvy</returns>
+        </member>
+        <member name="M:GraphicsEditor.Effects.BlackAndWhite(System.Drawing.Bitmap,System.Byte)">
+            <summary>
+            Funkce z původní bitmapy vytvoří její černobílou variaci v závislosti na hranici světlosti.
+            </summary>
+            <param name="sourceBitmap">Zpracovávaná bitmapa</param>
+            <param name="brightnessTreshold">Hranice světelnosti</param>
+            <returns>Funkce vrací bitmapu</returns>
+        </member>
+        <member name="M:GraphicsEditor.Program.Main">
+            <summary>
+             The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:GraphicsEditor.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:GraphicsEditor.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:GraphicsEditor.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:GraphicsEditor.Properties.Resources.pencil_fill">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="F:GraphicsEditor.EffectsUserControl.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:GraphicsEditor.EffectsUserControl.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:GraphicsEditor.EffectsUserControl.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:GraphicsEditor.EffectsUserControls.BlackAndWhiteUserControl.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:GraphicsEditor.EffectsUserControls.BlackAndWhiteUserControl.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:GraphicsEditor.EffectsUserControls.BlackAndWhiteUserControl.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:GraphicsEditor.MainForm.components">
+            <summary>
+             Required designer variable.
+            </summary>
+        </member>
+        <member name="M:GraphicsEditor.MainForm.Dispose(System.Boolean)">
+            <summary>
+             Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:GraphicsEditor.MainForm.InitializeComponent">
+            <summary>
+             Required method for Designer support - do not modify
+             the contents of this method with the code editor.
+            </summary>
+        </member>
+    </members>
+</doc>

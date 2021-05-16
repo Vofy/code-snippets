@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8oAZ4VwangQiUZFxd8TrbJvmLjuypmCT2wGyhTNfcxTzlRw2pG4KBwq6J95ojxtXaekaj3sJXjTqk0RSb+stXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vofy\\source\\repos\\GraphicsEditor\\GraphicsEditor\\GraphicsEditor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vofy\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
