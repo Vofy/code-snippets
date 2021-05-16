@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371336780757",
+    "project_id": "notes-d6890",
+    "storage_bucket": "notes-d6890.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371336780757:android:7230dc25905a9c4c8ebb5c",
+        "android_client_info": {
+          "package_name": "tech.vofy.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371336780757-btc558trkr99c6pmpg86df81sm46lcod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZF4WN3IQJ0PhV5ppn3VuGfE5igAkhNhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371336780757-btc558trkr99c6pmpg86df81sm46lcod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

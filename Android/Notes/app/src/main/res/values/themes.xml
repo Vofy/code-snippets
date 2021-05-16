@@ -1,0 +1,31 @@
+<resources>
+
+    <style name="Theme.Notes" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="android:statusBarColor">@color/primaryColor</item>
+
+        <!-- Color of FloatingActionButton -->
+        <item name="colorSecondary">@color/secondaryColor</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <item name="android:textColor">@android:color/black</item>
+
+        <!-- Chip, card -->
+        <item name="colorOnSurface">@color/primaryColor</item>
+        <item name="cardElevation">16dp</item>
+    </style>
+
+    <style name="Theme.Notes.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="TextInputLayout_Tag" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+
+    </style>
+
+    <style name="Theme.Notes.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.Notes.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

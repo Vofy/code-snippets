@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Poznámky</string>
+    <string name="title">Nadpis</string>
+    <string name="content">Obsah</string>
+    <string name="note_edit">Úprava poznámky</string>
+    <string name="save">Uložit</string>
+    <string name="add_new_note">Přidat novou poznámku</string>
+    <string name="searchBar_hint">Hledat v poznámkách</string>
+    <string name="tags">Tagy</string>
+    <string name="note_deleted">Poznámka byla smazána</string>
+    <string name="confirm">Potvrdit</string>
+    <string name="cancel">Zrušit</string>
+    <string name="note_delete_confirmation">Opravdu chcete smazat tuto poznámku?</string>
+    <string name="undo">Vrátit zpět</string>
+    <string name="confirmation">Potvrzení</string>
+    <string name="add_new_tag">Přidat nový tag</string>
+    <string name="new_note">Nová poznámka</string>
+    <string name="new_group">Nová skupina</string>
+    <string name="group">Skupina</string>
+    <string name="not_assigned">Nezařazeno</string>
+    <string name="edit_group">Úprava skupiny</string>
+    <string name="name">Jméno</string>
+    <string name="no_data">Nebyla nalezená žádná data</string>
+    <string name="login">Přihlásit se</string>
+    <string name="nav_open">Otevřít</string>
+    <string name="nav_close">Zavřít</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Heslo</string>
+    <string name="action_sign_in">Přihlaste se nebo zaregistrujte</string>
+    <string name="action_sign_in_short">Přihlásit se</string>
+    <string name="welcome">Vítejte!</string>
+    <string name="invalid_username">Neplatné uživatelské jméno</string>
+    <string name="invalid_password">Heslo musí být delší než 5 znaků</string>
+    <string name="login_failed">Přihlášení se nezdařilo</string>
+    <string name="title_activity_login">Přihlásit se</string>
+    <string name="logout">Odhlásit se</string>
+    <string name="not_logged_in">Nepřihlášen</string>
+</resources>

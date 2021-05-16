@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <color name="red">#c62828</color>
+    <color name="pink">#ad1457</color>
+    <color name="purple">#6a1b9a</color>
+    <color name="deep_purple">#4527a0</color>
+    <color name="indigo">#283593</color>
+    <color name="blue">#1565c0</color>
+    <color name="light_blue">#0277bd</color>
+    <color name="cyan">#00838f</color>
+    <color name="teal">#00695c</color>
+    <color name="green">#2e7d32</color>
+    <color name="light_green">#558b2f</color>
+    <color name="lime">#9e9d24</color>
+    <color name="yellow">#f9a825</color>
+    <color name="amber">#ff8f00</color>
+    <color name="orange">#ef6c00</color>
+    <color name="deep_orange">#d84315</color>
+    <color name="brown">#4e342e</color>
+    <color name="grey">#424242</color>
+    <color name="blue_grey">#37474f</color>
+</PreferenceScreen>
